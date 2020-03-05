@@ -1,2 +1,0 @@
-# ITGA
-Created with CodeSandbox
