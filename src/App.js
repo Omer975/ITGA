@@ -4,10 +4,15 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Nordic IT Garage Academy</h1>
-      <h2>Hello Everybody</h2>
+      <img
+        src="https://i.postimg.cc/90Ks5Bty/IMG-20200306-WA0027.jpg"
+        alt="picture"
+      />
       <h2>Welcome to our Academy</h2>
-      <img src="https://i.postimg.cc/VvGFD5GJ/indir-1.jpg" alt="picture" />
+      <img
+        src="https://i.postimg.cc/LXyrvSJC/IMG-20200306-WA0024.jpg"
+        alt="picture"
+      />
     </div>
   );
 }
